@@ -8,7 +8,9 @@ int main() //rozpoczyna program
     cout << "ucze sie" << endl; //
     int cwiczenie = 2; //zmienna liczby calkowite
     cout << cwiczenie << endl;
-    return 0; // koñczy program, trzeba postawiæ œrednik
+    float ulamek = 2.5; //
+    cout << ulamek << endl;
+        return 0; // koñczy program, trzeba postawiæ œrednik
 
 
 } //ustawia koniec i poczatek glownej funkcji
