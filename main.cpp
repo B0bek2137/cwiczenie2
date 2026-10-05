@@ -12,8 +12,11 @@ int main() //rozpoczyna program
     cout << ulamek << endl;
     char litera = 'A'; //zmienna dla jednego znaku, znak trzeba dawac w pojedynczy cudzyslow
     cout << litera << endl;
-    bool prawda = true;
+    bool prawda = true; //zmienna od prawda falsz, przyjmuje wartosc 0 lub 1
     cout << prawda << endl;
+    std::string prosba = "prosze zaplaccie mi duzo";
+    cout << prosba << endl;
+
 
         return 0; // koñczy program, trzeba postawiæ œrednik
 
