@@ -14,8 +14,14 @@ int main() //rozpoczyna program
     cout << litera << endl;
     bool prawda = true; //zmienna od prawda falsz, przyjmuje wartosc 0 lub 1
     cout << prawda << endl;
-    std::string prosba = "prosze zaplaccie mi duzo";
+    std::string prosba = "prosze zaplaccie mi duzo"; // zmienna do ciagu znakow, musi byc std:: bo ine zadziala
     cout << prosba << endl;
+    if (ulamek < 3);
+    {
+
+        cout << "po co ty to robisz nadprogramowo" << endl;
+    }
+
 
 
         return 0; // koñczy program, trzeba postawiæ œrednik
