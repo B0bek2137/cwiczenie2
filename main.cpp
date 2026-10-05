@@ -16,13 +16,6 @@ int main() //rozpoczyna program
     cout << prawda << endl;
     std::string prosba = "prosze zaplaccie mi duzo"; // zmienna do ciagu znakow, musi byc std:: bo ine zadziala
     cout << prosba << endl;
-    if (ulamek < 3);
-    {
-
-        cout << "po co ty to robisz nadprogramowo" << endl;
-    }
-
-
 
         return 0; // koñczy program, trzeba postawiæ œrednik
 
