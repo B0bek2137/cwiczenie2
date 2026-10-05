@@ -8,8 +8,13 @@ int main() //rozpoczyna program
     cout << "ucze sie" << endl; //
     int cwiczenie = 2; //zmienna liczby calkowite
     cout << cwiczenie << endl;
-    float ulamek = 2.5; //
+    float ulamek = 2.5; //zmienna ulamki
     cout << ulamek << endl;
+    char litera = 'A'; //zmienna dla jednego znaku, znak trzeba dawac w pojedynczy cudzyslow
+    cout << litera << endl;
+    bool prawda = true;
+    cout << prawda << endl;
+
         return 0; // koñczy program, trzeba postawiæ œrednik
 
 
